@@ -1,0 +1,7 @@
+{
+  "name": "SIMPLE ACTIVITY || ASSIGNMENT || MOBILE APP DEVELOPMENT",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
